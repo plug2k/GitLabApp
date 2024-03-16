@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLabApp", "GitLabApp\GitLabApp.csproj", "{C14BF2E5-9036-4E9F-8E28-7F5779011841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14BF2E5-9036-4E9F-8E28-7F5779011841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14BF2E5-9036-4E9F-8E28-7F5779011841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14BF2E5-9036-4E9F-8E28-7F5779011841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14BF2E5-9036-4E9F-8E28-7F5779011841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838F6C0D-1300-419F-B33D-CF91DF918FE2}
+	EndGlobalSection
+EndGlobal
