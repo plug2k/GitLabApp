@@ -14,7 +14,7 @@ namespace GitLabApp
             string s = Console.ReadLine();
             double x = Convert.ToDouble(s);
             double F = (Math.Sin(x) + Math.Cos(x)) / 2;
-            Console.WriteLine($"Значение F = {F}.");
+            Console.WriteLine($"Значение F = {F} при X = {x}. ");
             Console.ReadKey();
         }
     }
